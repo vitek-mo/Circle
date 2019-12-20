@@ -1,0 +1,13 @@
+{
+    "name": "viktor/circle",
+    "authors": [
+        {
+            "name": "Viktor Moisseyenko",
+            "email": "vitek.mo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" :{
+        "psr-4" :{"App\\":"src/"}
+    }
+}
